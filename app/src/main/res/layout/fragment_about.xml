@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/scrollView"
+    android:padding="10dp">
+
+    <LinearLayout
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="What&apos;s Flickers"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:padding="5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Flickers is a Student-to-Student Activity concerned with the development for students, and based in the Faculty of Engineering at Helwan University."
+        android:id="@+id/textView2"
+        android:textAlignment="center"
+        android:textSize="@dimen/abc_text_size_menu_material" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Flickers Vision"
+        android:id="@+id/textView3"
+        android:textStyle="bold"
+        android:paddingTop="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="“To be the premier student improvement engine maintaining everlasting process of inspiration for our community”"
+        android:id="@+id/textView4"
+        android:paddingTop="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Flickers Mission"
+        android:id="@+id/textView6"
+        android:textStyle="bold"
+        android:paddingTop="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="“Empower students to enhance their vocational and non-vocational skills through customized programs”"
+        android:id="@+id/textView5"
+        android:paddingTop="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Flickers Core Values CRR"
+            android:id="@+id/textView9"
+            android:textStyle="bold"
+            android:paddingTop="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="“You will be as much value to others as you are to yourself”"
+            android:id="@+id/textView10"
+            android:paddingTop="5dp"
+            android:editable="false"
+            android:textAlignment="center"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Collaboration:"
+            android:id="@+id/textView12"
+            android:paddingTop="5dp"
+            android:editable="false"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="- Recognize others’ contributions and successes.\n- Support our decisions and strategic goals.\n- Don’t take ourselves too seriously -- have fun!."
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Responsability:"
+            android:id="@+id/textView13"
+            android:paddingTop="5dp"
+            android:editable="false"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="- Participate, say what you believe.\n- Work to know who will do what and by when.\n- Do what you say you’re going to do when you say you’re going to do it.\n- Take initiative!."
+            android:id="@+id/textView14" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Respect:"
+            android:id="@+id/textView15"
+            android:paddingTop="5dp"
+            android:editable="false"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="- Actively listen and acknowledge my viewpoint.\n- Recognize the value of my job. \n- Ask for my help and realize that I have other priorities.\n- Be sensitive to my values, my culture.\n- Be friendly and thoughtful to all.\n"
+            android:id="@+id/textView16" />
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Flickers Beliefs"
+        android:id="@+id/textView7"
+        android:textStyle="bold"
+        android:paddingTop="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="We believe in our necessity for:\n- Variety of knowledge areas.\n- Interaction with professional expertise.\n- Awareness by the upgraded market needs.\n- Environment that encourage a sense of reactivity.\n- Environment that encourage a sense of inspiration.\n- Acquiring integrated professional attitude.\n- Ensure the right culture for success.\n"
+        android:id="@+id/textView8"
+        android:paddingTop="5dp" />
+
+    </LinearLayout>
+</ScrollView>

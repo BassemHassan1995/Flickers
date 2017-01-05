@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Flickers History"
+        android:id="@+id/textView28"
+        android:layout_gravity="center_horizontal"
+        android:padding="5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Since our first Event (Flickers Chain 1.0) in 2011, Flickers each year makes an event to provide either technical or non-technical sessions presented by multinational Companies."
+        android:id="@+id/textView29"
+        android:textAlignment="center"
+        android:textSize="@dimen/abc_text_size_menu_material"
+        android:visibility="gone" />
+
+    <ExpandableListView
+        android:id="@+id/expandableListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:childDivider="#00000000"/>
+
+
+</LinearLayout>

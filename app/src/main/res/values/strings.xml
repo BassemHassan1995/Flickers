@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flickers</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="chain1_html">
+        <![CDATA[
+        <h2>1. ABB:</h2>
+        <h4><em>They provided us with two tracks:</em></h4>
+        a) Supply chain management
+        <br>b) Marketing </br>
+
+        <h2>2. Leoni:</h2>
+        <h4><em>They provided us with three tracks:</em></h4>
+        a) Quality Control
+        <br>b) Project Management</br>
+        <br>c) Human Resources </br>]]>
+    </string>
+
+    <string name="chain2_html">
+        <![CDATA[
+        <h2>1. Schneider Electric:</h2>
+        <h4><em>They provided us with one track:</em></h4>
+        a) Automation
+
+        <h2>2. Leoni:</h2>
+        <h4><em>They provided us with two tracks:</em></h4>
+        a) Quality Control
+        <br>b) Project Management</br>
+
+        <h2>3. Olympic Group:</h2>
+        <h4><em>They provided us with one track:</em></h4>
+        a) Human Resources
+
+        <h2>4. Microsoft:</h2>
+        <h4><em>They provided us with one track:</em></h4>
+        a) Mobile Applications ]]>
+    </string>
+
+    <string name="spark_html">
+        <![CDATA[
+        <h2>1. Microsoft:</h2>
+        <h4><em>They provided us with two tracks:</em></h4>
+        a) Windows 8
+        <br>b) C#</br>
+
+        <h2>2. Leoni:</h2>
+        <h4><em>They provided us with one track:</em></h4>
+        a) Quality Control
+
+        <h2>3. ABB:</h2>
+        <h4><em>They provided us with two tracks:</em></h4>
+        a) Distribution and Transformers
+        <br>b) Automation</br>
+
+        <h2>4. PSP:</h2>
+        <h4><em>They provided us with one track:</em></h4>
+        a) OTS (Operator Training Simulation for power plant) ]]>
+    </string>
+
+    <string name="seminars_html">
+        <![CDATA[
+        <h2>1. Dr Ayman Salah:</h2>
+        <h4><em>his topic was about:</em></h4>
+        a) “How To Market Yourself”
+
+        <h2>2. Dr. Hisham El Gamal:</h2>
+        <h4><em>his topic was about:</em></h4>
+        a) “Success Through Self-Discovery”
+
+        <h2>3. Mr. Samy Morsy:</h2>
+        <h4><em>his topic was about:</em></h4>
+        a) “DISC Behavior”
+
+        <h2>4. Mr. Mahmood Darwish:</h2>
+        <h4><em>his topic was about:</em></h4>
+        a) “The art of failure”  which explains how to transform your failure into success
+
+        <h2>5. Dr. Mohamed El Sawy:</h2>
+        <h4><em>his topic was about:</em></h4>
+        a) “Being successful in your career” ]]>
+
+    </string>
+    <string name="origin_html">
+            <![CDATA[
+        <h2>1. IBM:</h2>
+        <h4><em>They provided us with three tracks:</em></h4>
+        a) Software Engineering
+        <br>b) Embedded Systems</br>
+        <br>c) Mobile Applications</br>
+
+        <h2>2. Electrolux(Olympic group):</h2>
+        <h4><em>They provided us with two tracks:</em></h4>
+        a) Project Management
+        <br>b) Supply Chain Management</br>
+
+        <h2>3. ECG (Egyptian consultant group):</h2>
+        <h4><em>They provided us with two tracks:</em></h4>
+        a) Architecture
+        <br>b) Structure</br>
+
+        <h2>4. Leo:</h2>
+        <h4><em>They provided us with one track:</em></h4>
+        a) Automative Design
+
+        <h2>5. EMAAR:</h2>
+        <h4><em>They provided us with :</em></h4>
+        a) An internship for civil, mechanical and architectural engineers.
+        <br>b) Visits to their sites here in Egypt.</br>
+
+        <h2>6. 3 Brothers:</h2>
+        <h4><em>They provided us with one track:</em></h4>
+        a) Lighting systems
+
+        <h2>7. Intel:</h2>
+        <h4><em>They provided us with one track:</em></h4>
+        a) Ideation camp and how to make your own business model
+
+        <h2>8. Origin:</h2>
+        <h4><em>They provided us with two tracks:</em></h4>
+        a) Data Network;.
+        <br>b) Voice Over IP (VOIP).</br>
+
+        <h2>9. EMC2:</h2>
+        <h4><em>They provided us with two tracks:</em></h4>
+        a) Big Data
+        <br>b) Cloud Computing</br>
+
+        <h2>10. General Motors:</h2>
+        <h4><em>They provided us with two tracks:</em></h4>
+        a) Lean Manufacturing
+        <br>b) Quality Basic System</br>
+
+        <h2>11. Ace Moharram bakhoum:</h2>
+        <h4><em>They provided us with two tracks:</em></h4>
+        a) Human Resources
+        <br>b) Sales</br>]]>
+
+    </string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_launch_screen">LaunchScreenActivity</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
